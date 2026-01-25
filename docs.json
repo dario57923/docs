@@ -36,7 +36,7 @@
         "tab": "Información",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Inicio",
             "pages": [
               "index",
               "quickstart",
@@ -73,12 +73,7 @@
   },
   "logo": "/images/logo.png",
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Dashboard",
@@ -99,18 +94,33 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/ntmotionmc",
+      "instagram": "https://instagram.com/ntmotionmc",
+      "website": "https://tienda.motionmc.es"
     }
   },
   "appearance": {
-    "default": "light"
+    "default": "system"
   },
   "seo": {
     "indexing": "navigable"
   },
   "metadata": {
     "timestamp": true
-  }
+  },
+  "banner": {
+    "dismissible": false,
+    "content": "Guía bajo mantenimiento, pueden haber fallos."
+  },
+  "search": {
+    "prompt": "Buscar contenido..."
+  },
+  "errors": {
+    "404": {
+      "redirect": false,
+      "title": "Página no encontrada",
+      "description": "La página que estás intentando acceder no existe o ha sido eliminada."
+    }
+  },
+  "description": "Documentación privada para el Equipo de Staff de MotionMC Network."
 }
