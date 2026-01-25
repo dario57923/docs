@@ -1,17 +1,39 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Guía de Staff | MotionMC Network",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#ba2829",
+    "light": "#911e1e",
+    "dark": "#f44040"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/mnstaff.png",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Guía de Sanciones",
+          "icon": "wrench",
+          "color": {
+            "light": "#ba2829",
+            "dark": "#ba2829"
+          },
+          "href": "https://docs.google.com/spreadsheets/d/141r4WKqkMIGnJmhctPqpoCzmq9BENmljCcdfvoEyIyo/edit?gid=729959651#gid=729959651"
+        },
+        {
+          "anchor": "Servidor de Staff",
+          "icon": "server",
+          "color": {
+            "light": "#ba2829",
+            "dark": "#ba2829"
+          },
+          "href": "https://discord.com/channels/1086642788856242217/1389615145956675697"
+        }
+      ]
+    },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Información",
         "groups": [
           {
             "group": "Getting started",
@@ -67,26 +89,9 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/logo.png",
   "navbar": {
     "links": [
       {
@@ -118,5 +123,14 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "appearance": {
+    "default": "light"
+  },
+  "seo": {
+    "indexing": "navigable"
+  },
+  "metadata": {
+    "timestamp": true
   }
 }
