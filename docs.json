@@ -4,8 +4,8 @@
   "name": "Guía de Staff | MotionMC Network",
   "colors": {
     "primary": "#ba2829",
-    "light": "#911e1e",
-    "dark": "#f44040"
+    "light": "#ba2829",
+    "dark": "#ba2829"
   },
   "favicon": "/images/mnstaff.png",
   "navigation": {
