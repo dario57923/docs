@@ -33,13 +33,14 @@
     },
     "tabs": [
       {
-        "tab": "Información",
+        "tab": "Staff",
+        "icon": "house-blank",
         "groups": [
           {
             "group": "Inicio",
             "pages": [
               "index",
-              "quickstart",
+              "normativa",
               "development"
             ]
           },
