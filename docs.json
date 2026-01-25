@@ -76,8 +76,8 @@
     "links": [],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Panel",
+      "href": "https://panel.motionmc.es"
     }
   },
   "contextual": {
