@@ -48,7 +48,8 @@
             "group": "Organización",
             "pages": [
               "staff/organizacion/ausencias-y-bajas",
-              "staff/organizacion/asccensos-y-evaluaciones"
+              "staff/organizacion/asccensos-y-evaluaciones",
+              "staff/organizacion/conflictos-de-interes"
             ]
           }
         ]
