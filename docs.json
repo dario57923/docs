@@ -39,15 +39,16 @@
             "group": "Gestión",
             "pages": [
               "index",
-              "normativa",
-              "rangos-y-permisos",
-              "onboarding"
+              "staff/gestion/normativa",
+              "staff/gestion/rangos-y-permisos",
+              "staff/gestion/onboarding"
             ]
           },
           {
             "group": "Organización",
             "pages": [
-              "staff/organizacion/ausencias-y-bajas"
+              "staff/organizacion/ausencias-y-bajas",
+              "staff/organizacion/asccensos-y-evaluaciones"
             ]
           }
         ]
