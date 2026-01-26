@@ -40,7 +40,8 @@
             "pages": [
               "index",
               "normativa",
-              "rangos-y-permisos"
+              "rangos-y-permisos",
+              "onboarding"
             ]
           }
         ]
