@@ -36,12 +36,18 @@
         "tab": "Staff",
         "groups": [
           {
-            "group": "Información básica",
+            "group": "Gestión",
             "pages": [
               "index",
               "normativa",
               "rangos-y-permisos",
               "onboarding"
+            ]
+          },
+          {
+            "group": "Organización",
+            "pages": [
+              "staff/organizacion/ausencias-y-bajas"
             ]
           }
         ]
