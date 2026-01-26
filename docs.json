@@ -36,7 +36,7 @@
         "tab": "Staff",
         "groups": [
           {
-            "group": "Inicio",
+            "group": "Información básica",
             "pages": [
               "index",
               "normativa",
