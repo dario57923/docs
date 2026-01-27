@@ -44,6 +44,9 @@
           "staff/sanciones-internas",
           "staff/conflictos-de-interes"
         ]
+      },
+      {
+        "tab": "Guía de Sanciones"
       }
     ]
   },
