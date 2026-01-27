@@ -34,25 +34,15 @@
     "tabs": [
       {
         "tab": "Staff",
-        "groups": [
-          {
-            "group": "Gestión",
-            "pages": [
-              "index",
-              "staff/gestion/normativa",
-              "staff/gestion/rangos-y-permisos",
-              "staff/gestion/onboarding"
-            ]
-          },
-          {
-            "group": "Organización",
-            "pages": [
-              "staff/organizacion/ausencias-y-bajas",
-              "staff/organizacion/asccensos-y-evaluaciones",
-              "staff/organizacion/sanciones-internas",
-              "staff/organizacion/conflictos-de-interes"
-            ]
-          }
+        "pages": [
+          "index",
+          "staff/gestion/normativa",
+          "staff/gestion/rangos-y-permisos",
+          "staff/gestion/onboarding",
+          "staff/organizacion/ausencias-y-bajas",
+          "staff/organizacion/asccensos-y-evaluaciones",
+          "staff/organizacion/sanciones-internas",
+          "staff/organizacion/conflictos-de-interes"
         ]
       }
     ]
