@@ -36,13 +36,13 @@
         "tab": "Staff",
         "pages": [
           "index",
-          "staff/gestion/normativa",
-          "staff/gestion/rangos-y-permisos",
-          "staff/gestion/onboarding",
-          "staff/organizacion/ausencias-y-bajas",
-          "staff/organizacion/asccensos-y-evaluaciones",
-          "staff/organizacion/sanciones-internas",
-          "staff/organizacion/conflictos-de-interes"
+          "staff/normativa",
+          "staff/rangos-y-permisos",
+          "staff/onboarding",
+          "staff/ausencias-y-bajas",
+          "staff/asccensos-y-evaluaciones",
+          "staff/sanciones-internas",
+          "staff/conflictos-de-interes"
         ]
       }
     ]
