@@ -59,7 +59,22 @@
       "x": "https://x.com/ntmotionmc",
       "instagram": "https://instagram.com/ntmotionmc",
       "website": "https://tienda.motionmc.es"
-    }
+    },
+    "links": [
+      {
+        "header": "Guía de Staff",
+        "items": [
+          {
+            "label": "Staff General",
+            "href": "/"
+          },
+          {
+            "label": "Guía de Sanciones",
+            "href": "/sanciones/mutes"
+          }
+        ]
+      }
+    ]
   },
   "appearance": {
     "default": "system"
