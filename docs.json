@@ -105,5 +105,8 @@
       "description": "La página que estás intentando acceder no existe o ha sido eliminada."
     }
   },
-  "description": "Documentación privada para el Equipo de Staff de MotionMC Network."
+  "description": "Documentación privada para el Equipo de Staff de MotionMC Network.",
+  "background": {
+    "decoration": "gradient"
+  }
 }
