@@ -40,8 +40,8 @@
         "tab": "Sanciones",
         "pages": [
           "sanciones/mutes",
-          "sanciones/untitled-page",
-          "sanciones/untitled-page-1"
+          "sanciones/baneos",
+          "sanciones/timeouts"
         ]
       }
     ]
