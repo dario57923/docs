@@ -30,6 +30,15 @@
           "sanciones/baneos",
           "sanciones/timeouts"
         ]
+      },
+      {
+        "tab": "Plantillas"
+      },
+      {
+        "tab": "ScreenShare"
+      },
+      {
+        "tab": "Equipo"
       }
     ]
   },
