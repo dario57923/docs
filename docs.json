@@ -71,7 +71,7 @@
     "timestamp": true
   },
   "banner": {
-    "dismissible": false,
+    "dismissible": true,
     "content": " "
   },
   "search": {
