@@ -9,19 +9,6 @@
   },
   "favicon": "/images/mnstaff.png",
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Servidor de Staff",
-          "icon": "server",
-          "color": {
-            "light": "#ba2829",
-            "dark": "#ba2829"
-          },
-          "href": "https://discord.com/channels/1086642788856242217/1389615145956675697"
-        }
-      ]
-    },
     "tabs": [
       {
         "tab": "Staff",
