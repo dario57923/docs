@@ -70,10 +70,6 @@
   "metadata": {
     "timestamp": true
   },
-  "banner": {
-    "dismissible": false,
-    "content": ""
-  },
   "search": {
     "prompt": "Buscar contenido..."
   },
