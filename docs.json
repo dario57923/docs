@@ -46,7 +46,10 @@
         ]
       },
       {
-        "tab": "Guía de Sanciones"
+        "tab": "Guía de Sanciones",
+        "pages": [
+          "sanciones/mutes"
+        ]
       }
     ]
   },
