@@ -12,15 +12,6 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Guía de Sanciones",
-          "icon": "wrench",
-          "color": {
-            "light": "#ba2829",
-            "dark": "#ba2829"
-          },
-          "href": "https://docs.google.com/spreadsheets/d/141r4WKqkMIGnJmhctPqpoCzmq9BENmljCcdfvoEyIyo/edit?gid=729959651#gid=729959651"
-        },
-        {
           "anchor": "Servidor de Staff",
           "icon": "server",
           "color": {
