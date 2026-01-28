@@ -2,6 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Guía de Staff | MotionMC Network",
+  "locale": "es",
   "colors": {
     "primary": "#ba2829",
     "light": "#ba2829",
@@ -18,7 +19,7 @@
           "staff/rangos-y-permisos",
           "staff/onboarding",
           "staff/ausencias-y-bajas",
-          "staff/asccensos-y-evaluaciones",
+          "staff/ascensos-y-evaluaciones",
           "staff/sanciones-internas",
           "staff/conflictos-de-interes"
         ]
