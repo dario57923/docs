@@ -48,7 +48,8 @@
       {
         "tab": "Sanciones",
         "pages": [
-          "sanciones/mutes"
+          "sanciones/mutes",
+          "sanciones/untitled-page"
         ]
       }
     ]
