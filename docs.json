@@ -2,7 +2,6 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Guía de Staff | MotionMC Network",
-  "locale": "es",
   "colors": {
     "primary": "#ba2829",
     "light": "#ba2829",
@@ -10,6 +9,7 @@
   },
   "favicon": "/images/mnstaff.png",
   "navigation": {
+    "language": "es",
     "tabs": [
       {
         "tab": "Staff",
