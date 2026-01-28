@@ -9,37 +9,44 @@
   },
   "favicon": "/images/mnstaff.png",
   "navigation": {
-    "language": "es",
-    "tabs": [
+    "languages": [
       {
-        "tab": "Staff",
-        "pages": [
-          "index",
-          "staff/normativa",
-          "staff/rangos-y-permisos",
-          "staff/onboarding",
-          "staff/ausencias-y-bajas",
-          "staff/ascensos-y-evaluaciones",
-          "staff/sanciones-internas",
-          "staff/conflictos-de-interes"
+        "language": "es",
+        "tabs": [
+          {
+            "tab": "Staff",
+            "pages": [
+              "index",
+              "staff/normativa",
+              "staff/rangos-y-permisos",
+              "staff/onboarding",
+              "staff/ausencias-y-bajas",
+              "staff/ascensos-y-evaluaciones",
+              "staff/sanciones-internas",
+              "staff/conflictos-de-interes"
+            ]
+          },
+          {
+            "tab": "Sanciones",
+            "pages": [
+              "sanciones/mutes",
+              "sanciones/baneos",
+              "sanciones/timeouts"
+            ]
+          },
+          {
+            "tab": "Plantillas"
+          },
+          {
+            "tab": "ScreenShare"
+          },
+          {
+            "tab": "Equipo",
+            "pages": [
+              "equipo/es/introduccion-a-equipo"
+            ]
+          }
         ]
-      },
-      {
-        "tab": "Sanciones",
-        "pages": [
-          "sanciones/mutes",
-          "sanciones/baneos",
-          "sanciones/timeouts"
-        ]
-      },
-      {
-        "tab": "Plantillas"
-      },
-      {
-        "tab": "ScreenShare"
-      },
-      {
-        "tab": "Equipo"
       }
     ]
   },
