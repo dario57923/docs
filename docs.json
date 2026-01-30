@@ -16,22 +16,22 @@
           {
             "tab": "Staff",
             "pages": [
-              "es/index",
-              "es/staff/normativa",
-              "es/staff/rangos-y-permisos",
-              "es/staff/onboarding",
-              "es/staff/ausencias-y-bajas",
-              "es/staff/ascensos-y-evaluaciones",
-              "es/staff/sanciones-internas",
-              "es/staff/conflictos-de-interes"
+              "index",
+              "staff/normativa",
+              "staff/rangos-y-permisos",
+              "staff/onboarding",
+              "staff/ausencias-y-bajas",
+              "staff/ascensos-y-evaluaciones",
+              "staff/sanciones-internas",
+              "staff/conflictos-de-interes"
             ]
           },
           {
             "tab": "Sanciones",
             "pages": [
-              "es/sanciones/mutes",
-              "es/sanciones/baneos",
-              "es/sanciones/timeouts"
+              "sanciones/mutes",
+              "sanciones/baneos",
+              "sanciones/timeouts"
             ]
           },
           {
@@ -43,7 +43,7 @@
           {
             "tab": "Equipo",
             "pages": [
-              "es/equipo/introduccion-a-equipo",
+              "equipo/introduccion-a-equipo",
               "es/equipo/administracion"
             ]
           }
@@ -62,14 +62,7 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
+     "copy"
    ]
   },
   "footer": {
