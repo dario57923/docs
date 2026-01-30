@@ -16,6 +16,7 @@
         "languages": [
           {
             "language": "es",
+            "default": true,
             "tabs": [
               {
                 "tab": "Staff",
