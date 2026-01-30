@@ -49,13 +49,18 @@
                 "tab": "Equipo",
                 "pages": [
                   "equipo/introduccion-a-equipo",
-                  "equipo/administracion",
-                  "equipo/managers",
-                  "equipo/desarrollo",
-                  "equipo/administradores",
-                  "equipo/moderadores",
-                  "equipo/helpers",
-                  "equipo/moderacion-discord"
+                  {
+                    "group": "Nuestro Equipo",
+                    "pages": [
+                      "equipo/administracion",
+                      "equipo/managers",
+                      "equipo/desarrollo",
+                      "equipo/administradores",
+                      "equipo/moderadores",
+                      "equipo/helpers",
+                      "equipo/moderacion-discord"
+                    ]
+                  }
                 ]
               }
             ]
