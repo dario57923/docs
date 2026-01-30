@@ -9,43 +9,48 @@
   },
   "favicon": "/images/mnstaff.png",
   "navigation": {
-    "languages": [
+    "versions": [
       {
-        "language": "es",
-        "tabs": [
+        "version": "Beta 1.0",
+        "languages": [
           {
-            "tab": "Staff",
-            "pages": [
-              "index",
-              "staff/normativa",
-              "staff/rangos-y-permisos",
-              "staff/onboarding",
-              "staff/ausencias-y-bajas",
-              "staff/ascensos-y-evaluaciones",
-              "staff/sanciones-internas",
-              "staff/conflictos-de-interes"
-            ]
-          },
-          {
-            "tab": "Sanciones",
-            "pages": [
-              "sanciones/mutes",
-              "sanciones/baneos",
-              "sanciones/timeouts"
-            ]
-          },
-          {
-            "tab": "Plantillas"
-          },
-          {
-            "tab": "ScreenShare"
-          },
-          {
-            "tab": "Equipo",
-            "pages": [
-              "equipo/introduccion-a-equipo",
-              "equipo/administracion",
-              "equipo/managers"
+            "language": "es",
+            "tabs": [
+              {
+                "tab": "Staff",
+                "pages": [
+                  "index",
+                  "staff/normativa",
+                  "staff/rangos-y-permisos",
+                  "staff/onboarding",
+                  "staff/ausencias-y-bajas",
+                  "staff/ascensos-y-evaluaciones",
+                  "staff/sanciones-internas",
+                  "staff/conflictos-de-interes"
+                ]
+              },
+              {
+                "tab": "Sanciones",
+                "pages": [
+                  "sanciones/mutes",
+                  "sanciones/baneos",
+                  "sanciones/timeouts"
+                ]
+              },
+              {
+                "tab": "Plantillas"
+              },
+              {
+                "tab": "ScreenShare"
+              },
+              {
+                "tab": "Equipo",
+                "pages": [
+                  "equipo/introduccion-a-equipo",
+                  "equipo/administracion",
+                  "equipo/managers"
+                ]
+              }
             ]
           }
         ]
