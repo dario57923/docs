@@ -51,7 +51,8 @@
                   "equipo/introduccion-a-equipo",
                   "equipo/administracion",
                   "equipo/managers",
-                  "equipo/administradores"
+                  "equipo/administradores",
+                  "equipo/moderadores"
                 ]
               }
             ]
