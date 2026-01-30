@@ -44,7 +44,8 @@
             "tab": "Equipo",
             "pages": [
               "equipo/introduccion-a-equipo",
-              "equipo/administracion"
+              "equipo/administracion",
+              "equipo/managers"
             ]
           }
         ]
