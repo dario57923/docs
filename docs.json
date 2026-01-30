@@ -52,7 +52,9 @@
                   "equipo/administracion",
                   "equipo/managers",
                   "equipo/administradores",
-                  "equipo/moderadores"
+                  "equipo/moderadores",
+                  "equipo/helpers",
+                  "equipo/moderacion-discord"
                 ]
               }
             ]
