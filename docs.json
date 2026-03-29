@@ -78,6 +78,29 @@
                 ]
               }
             ]
+          },
+          {
+            "language": "en",
+            "tabs": [
+              {
+                "tab": "Staff",
+                "pages": [
+                  "en/index",
+                  {
+                    "group": "General Information",
+                    "pages": [
+                      "en/staff/regulations",
+                      "en/staff/ranks-and-permissions",
+                      "en/staff/onboarding",
+                      "en/staff/absences-and-leaves",
+                      "en/staff/promotions-and-evaluations",
+                      "en/staff/internal-sanctions",
+                      "en/staff/conflicts-of-interest"
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
