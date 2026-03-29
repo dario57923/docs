@@ -50,8 +50,8 @@
                   {
                     "group": "Helper",
                     "pages": [
-                      "baneos-por-el-anticheat",
-                      "rango-por-boosts"
+                      "plantillas/helper/baneos-por-el-anticheat",
+                      "plantillas/helper/rango-por-boosts"
                     ]
                   }
                 ]
@@ -96,6 +96,98 @@
                       "en/staff/promotions-and-evaluations",
                       "en/staff/internal-sanctions",
                       "en/staff/conflicts-of-interest"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "version": "1.1.0 (Beta)",
+        "languages": [
+          {
+            "language": "es",
+            "tabs": [
+              {
+                "tab": "Staff",
+                "pages": [
+                  "beta/index",
+                  {
+                    "group": "Información General",
+                    "pages": [
+                      "beta/staff/normativa",
+                      "beta/staff/rangos-y-permisos",
+                      "beta/staff/onboarding",
+                      "beta/staff/ausencias-y-bajas",
+                      "beta/staff/ascensos-y-evaluaciones",
+                      "beta/staff/sanciones-internas",
+                      "beta/staff/conflictos-de-interes"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tab": "Sanciones",
+                "pages": [
+                  "beta/sanciones/mutes",
+                  "beta/sanciones/baneos",
+                  "beta/sanciones/timeouts"
+                ]
+              },
+              {
+                "tab": "Plantillas",
+                "groups": [
+                  {
+                    "group": "Helper",
+                    "pages": [
+                      "beta/plantillas/helper/baneos-por-el-anticheat",
+                      "beta/plantillas/helper/rango-por-boosts"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tab": "ScreenShare"
+              },
+              {
+                "tab": "Equipo",
+                "pages": [
+                  "beta/equipo/introduccion-a-equipo",
+                  {
+                    "group": "Nuestro Equipo",
+                    "pages": [
+                      "beta/equipo/administracion",
+                      "beta/equipo/managers",
+                      "beta/equipo/desarrollo",
+                      "beta/equipo/administradores",
+                      "beta/equipo/moderadores",
+                      "beta/equipo/helpers",
+                      "beta/equipo/moderacion-discord"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "language": "en",
+            "tabs": [
+              {
+                "tab": "Staff",
+                "pages": [
+                  "beta/en/index",
+                  {
+                    "group": "General Information",
+                    "pages": [
+                      "beta/en/staff/regulations",
+                      "beta/en/staff/ranks-and-permissions",
+                      "beta/en/staff/onboarding",
+                      "beta/en/staff/absences-and-leaves",
+                      "beta/en/staff/promotions-and-evaluations",
+                      "beta/en/staff/internal-sanctions",
+                      "beta/en/staff/conflicts-of-interest"
                     ]
                   }
                 ]
