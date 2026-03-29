@@ -45,7 +45,15 @@
                 ]
               },
               {
-                "tab": "Plantillas"
+                "tab": "Plantillas",
+                "groups": [
+                  {
+                    "group": "Helper",
+                    "pages": [
+                      "baneos-por-el-anticheat"
+                    ]
+                  }
+                ]
               },
               {
                 "tab": "ScreenShare"
