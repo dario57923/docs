@@ -123,7 +123,8 @@
                       "beta/staff/ausencias-y-bajas",
                       "beta/staff/ascensos-y-evaluaciones",
                       "beta/staff/sanciones-internas",
-                      "beta/staff/conflictos-de-interes"
+                      "beta/staff/conflictos-de-interes",
+                      "beta/staff/herramientas-del-staff"
                     ]
                   }
                 ]
