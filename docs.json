@@ -259,5 +259,8 @@
   "description": "Documentación privada para el Equipo de Staff de CosmixMC Network.",
   "background": {
     "decoration": "gradient"
+  },
+  "fonts": {
+    "family": "Sora"
   }
 }
