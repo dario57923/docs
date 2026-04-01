@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Guía de Staff | CosmixMC Network",
   "colors": {
-    "primary": "#ba2829",
-    "light": "#ba2829",
-    "dark": "#ba2829"
+    "primary": "#7C3AED",
+    "light": "#7C3AED",
+    "dark": "#7C3AED"
   },
   "favicon": "/images/mnstaff.png",
   "navigation": {
